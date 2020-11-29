@@ -15,4 +15,3 @@ money=c.profit(20)
 
 print("{}獲利:${}".format(c.n,money))
 
-#class其實就是依類別自己定義自己玩 很好玩的一個東西 
