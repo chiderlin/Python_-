@@ -1,2 +1,2 @@
-# Python_-
-_證照練習
+# Python_certification_practice
+_證照題庫練習
