@@ -1,0 +1,11 @@
+def compute(a,b,c):
+    return("Department:",a)
+    return("Student ID:",b)
+    return("Name:",c)
+
+info=input()
+num=input()
+name=input()
+
+compute(info,num,name)
+

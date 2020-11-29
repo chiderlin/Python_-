@@ -1,0 +1,8 @@
+n=input()
+ordd=0
+for i in range(len(n)):
+    ordd+=int(ord(n[i]))
+    print("ASCII code for '{}' is {}".format(n[i],ord(n[i])))
+print(ordd)
+
+#計算ASCII對應數字用 ord(s[i])
